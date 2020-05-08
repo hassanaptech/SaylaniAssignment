@@ -1,0 +1,40 @@
+#herder1{
+	background-color:#09F;
+	padding:15px 5px 15px 5px;
+}
+.dropdown-menu  a:hover
+{
+	
+	background:#09F;
+	color:#FFF;
+}
+#marqi{
+	background-color: #09F;
+	color: #FFF;
+}
+.icons{
+	height: 50px; 
+	margin-top: 50px;
+
+}
+.shadow {
+	border: 1px solid black;
+	padding: 10px;
+	box-shadow: 10px 10px red;  
+}
+.shadow1 {
+	width: 50%px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	text-align: center;
+  }
+  .sec2img{
+	  margin-top: 20px;
+  }
+  .sec3style{
+	background-color: #B0E0E6; 
+	height: 50px;
+  }
+
+
+
+
